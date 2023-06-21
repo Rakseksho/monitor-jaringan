@@ -3,7 +3,7 @@
 	<head>
 		<meta charset="utf-8">
 		<meta name="viewport" content="width=device-width, initial-scale=1">
-		<title>Monitor Kecepatan Bandwidth</title>
+		<title>Monitor Bandwidth</title>
     	<link rel="icon" type="image/x-icon" href="img/favicon.ico" />
 		<link href="css/bootstrap.css" rel="stylesheet">
 		<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
@@ -45,7 +45,7 @@
 			<div class="container">
 				<a class="navbar-brand py-3 fs-5 fw-bold">
 					<img src="img/favicon.ico" alt="Logo" width="30" height="30" class="d-inline-block align-text-top">
-					Monitor Kecepatan Bandwidth
+					Monitor Bandwidth
 				</a>
 			</div>
 		</nav>
